@@ -1,0 +1,34 @@
+#container1{
+	background-color: #dceff5;
+	box-shadow:2px 2px 5px rgba(67, 78, 82);
+}
+
+.container2{
+	background-color: #afd0db;
+	width:275px; height: 370px;
+	padding: 30px;
+	margin: auto;
+	box-shadow:2px 2px 5px rgba(67, 78, 82);
+
+}
+
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAXyahZt_LlyQ5Nsr_RlJR6dDVNU0sctO9D0oMS0KhH0mZZomm8pOrdful9ciCwvdCko&usqp=CAU');
+	background-repeat: no;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#submit{
+	border-radius:10px;
+	border-color: white;
+	color: #466975;
+	cursor: pointer;
+}
+
+label{
+	font-size: 20px;
+	font-family: Consolas;
+	color:#466975;
+}
